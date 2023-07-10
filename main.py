@@ -1,6 +1,6 @@
 
     # Add the Two numbers
-def add(x,y):
+def add(x, y):
     print ("num1 + num2 =",x+y)
     
     # substract the Two numbers
